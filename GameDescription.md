@@ -1,0 +1,2 @@
+The file squash.py contains my working version of the pong game. My game starts with completely black screen and black ball and paddle. When the ball and the paddle move through the screen, they gradually paint it in purple color, drawing funny patterns, until it's completely purple. The player should try to not let the ball go behind the paddle. The purple painting of the screen could be considered as scoring system, according to the rate of purple/black colors.
+
